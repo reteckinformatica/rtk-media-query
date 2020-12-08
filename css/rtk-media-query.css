@@ -1,0 +1,347 @@
+rtk-container{
+    padding-left: 6px;
+    padding-right: 6px;
+    width: 100%;
+}
+rtk-row{
+    clear: both;
+    padding-left: -6px;
+    padding-right: -6px;
+}
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+    .rtk-col-md-1{
+        width: 8.33333%;
+        float: left;
+    }
+    .rtk-col-md-2{
+        width: 16.6666%;
+        float: left;
+    }
+    .rtk-col-md-3{
+        width: 25%;
+        float: left;
+    }
+    .rtk-col-md-4{
+        width: 33.3333%;
+        float: left;
+    }
+    .rtk-col-md-5{
+        width: 41.6666%;
+        float: left;
+    }
+    .rtk-col-md-6{
+        width: 50%;
+        float: left;
+    }
+    .rtk-col-md-7{
+        width: 58.3333%;
+        float: left;
+    }
+    .rtk-col-md-8{
+        width: 66.6666%;
+        float: left;
+    }
+    .rtk-col-md-9{
+        width: 75%;
+        float: left;
+    }
+    .rtk-col-md-10{
+        width: 83.3333%;
+        float: left;
+    }
+    .rtk-col-md-11{
+        width: 91.6666%;
+        float: left;
+    }
+    .rtk-col-md-12{
+        width: 100%;
+        float: left;
+    }
+
+}
+
+/* 
+##Device = Laptops, Desktops
+##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 960px) and (max-width: 1280px) {
+    .rtk-col-md-1{
+        width: 8.33333%;
+        float: left;
+    }
+    .rtk-col-md-2{
+        width: 16.6666%;
+        float: left;
+    }
+    .rtk-col-md-3{
+        width: 25%;
+        float: left;
+    }
+    .rtk-col-md-4{
+        width: 33.3333%;
+        float: left;
+    }
+    .rtk-col-md-5{
+        width: 41.6666%;
+        float: left;
+    }
+    .rtk-col-md-6{
+        width: 50%;
+        float: left;
+    }
+    .rtk-col-md-7{
+        width: 58.3333%;
+        float: left;
+    }
+    .rtk-col-md-8{
+        width: 66.6666%;
+        float: left;
+    }
+    .rtk-col-md-9{
+        width: 75%;
+        float: left;
+    }
+    .rtk-col-md-10{
+        width: 83.3333%;
+        float: left;
+    }
+    .rtk-col-md-11{
+        width: 91.6666%;
+        float: left;
+    }
+    .rtk-col-md-12{
+        width: 100%;
+        float: left;
+    }
+}
+
+/* 
+##Device = Tablets, Ipads (portrait)
+##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 959px) {
+    .rtk-col-sm-1{
+        width: 8.33333%;
+        float: left;
+    }
+    .rtk-col-sm-2{
+        width: 16.6666%;
+        float: left;
+    }
+    .rtk-col-sm-3{
+        width: 25%;
+        float: left;
+    }
+    .rtk-col-sm-4{
+        width: 33.3333%;
+        float: left;
+    }
+    .rtk-col-sm-5{
+        width: 41.6666%;
+        float: left;
+    }
+    .rtk-col-sm-6{
+        width: 50%;
+        float: left;
+    }
+    .rtk-col-sm-7{
+        width: 58.3333%;
+        float: left;
+    }
+    .rtk-col-sm-8{
+        width: 66.6666%;
+        float: left;
+    }
+    .rtk-col-sm-9{
+        width: 75%;
+        float: left;
+    }
+    .rtk-col-sm-10{
+        width: 83.3333%;
+        float: left;
+    }
+    .rtk-col-sm-11{
+        width: 91.6666%;
+        float: left;
+    }
+    .rtk-col-sm-12{
+        width: 100%;
+        float: left;
+    }
+}
+
+/* 
+##Device = Tablets, Ipads (landscape)
+##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 959px) and (orientation: landscape) {
+    .rtk-col-sm-1{
+        width: 8.33333%;
+        float: left;
+    }
+    .rtk-col-sm-2{
+        width: 16.6666%;
+        float: left;
+    }
+    .rtk-col-sm-3{
+        width: 25%;
+        float: left;
+    }
+    .rtk-col-sm-4{
+        width: 33.3333%;
+        float: left;
+    }
+    .rtk-col-sm-5{
+        width: 41.6666%;
+        float: left;
+    }
+    .rtk-col-sm-6{
+        width: 50%;
+        float: left;
+    }
+    .rtk-col-sm-7{
+        width: 58.3333%;
+        float: left;
+    }
+    .rtk-col-sm-8{
+        width: 66.6666%;
+        float: left;
+    }
+    .rtk-col-sm-9{
+        width: 75%;
+        float: left;
+    }
+    .rtk-col-sm-10{
+        width: 83.3333%;
+        float: left;
+    }
+    .rtk-col-sm-11{
+        width: 91.6666%;
+        float: left;
+    }
+    .rtk-col-sm-12{
+        width: 100%;
+        float: left;
+    }
+}
+
+/* 
+##Device = Low Resolution Tablets, Mobiles (Landscape)
+##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .rtk-col-xs-1{
+        width: 8.33333%;
+        float: left;
+    }
+    .rtk-col-xs-2{
+        width: 16.6666%;
+        float: left;
+    }
+    .rtk-col-xs-3{
+        width: 25%;
+        float: left;
+    }
+    .rtk-col-xs-4{
+        width: 33.3333%;
+        float: left;
+    }
+    .rtk-col-xs-5{
+        width: 41.6666%;
+        float: left;
+    }
+    .rtk-col-xs-6{
+        width: 50%;
+        float: left;
+    }
+    .rtk-col-xs-7{
+        width: 58.3333%;
+        float: left;
+    }
+    .rtk-col-xs-8{
+        width: 66.6666%;
+        float: left;
+    }
+    .rtk-col-xs-9{
+        width: 75%;
+        float: left;
+    }
+    .rtk-col-xs-10{
+        width: 83.3333%;
+        float: left;
+    }
+    .rtk-col-xs-11{
+        width: 91.6666%;
+        float: left;
+    }
+    .rtk-col-xs-12{
+        width: 100%;
+        float: left;
+    }
+}
+
+/* 
+##Device = Most of the Smartphones Mobiles (Portrait)
+##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .rtk-col-xs-1{
+        width: 8.33333%;
+        float: left;
+    }
+    .rtk-col-xs-2{
+        width: 16.6666%;
+        float: left;
+    }
+    .rtk-col-xs-3{
+        width: 25%;
+        float: left;
+    }
+    .rtk-col-xs-4{
+        width: 33.3333%;
+        float: left;
+    }
+    .rtk-col-xs-5{
+        width: 41.6666%;
+        float: left;
+    }
+    .rtk-col-xs-6{
+        width: 50%;
+        float: left;
+    }
+    .rtk-col-xs-7{
+        width: 58.3333%;
+        float: left;
+    }
+    .rtk-col-xs-8{
+        width: 66.6666%;
+        float: left;
+    }
+    .rtk-col-xs-9{
+        width: 75%;
+        float: left;
+    }
+    .rtk-col-xs-10{
+        width: 83.3333%;
+        float: left;
+    }
+    .rtk-col-xs-11{
+        width: 91.6666%;
+        float: left;
+    }
+    .rtk-col-xs-12{
+        width: 100%;
+        float: left;
+    }
+}
