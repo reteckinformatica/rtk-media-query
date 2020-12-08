@@ -1,12 +1,18 @@
-rtk-container{
+.rtk-container{
     padding-left: 6px;
     padding-right: 6px;
     width: 100%;
 }
-rtk-row{
-    clear: both;
+.rtk-row{
     padding-left: -6px;
     padding-right: -6px;
+}
+.rtk-row::before,
+.rtk-row::after{
+    display: block;
+}
+.rtk-row::after{
+    clear: both;
 }
 
 /* 
