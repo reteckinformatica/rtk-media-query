@@ -20,7 +20,21 @@
 * 01 + 8,333333333333333 = 8,33333%
 
 
-## Dispositivos aceitos
+## Compatibilidades
 
-* Desktop, Tablet, Mobile
-* md,sm,xs
+* WordPress
+* Tema OceanWP
+
+### Desktop
+
+* rtk-col-md-
+
+### Tablet
+
+* rtk-col-sm
+
+### Mobile
+
+* rtk-col-xs
+
+
