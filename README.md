@@ -1,5 +1,15 @@
 # RTK Media Query 
 
+
+
+## Correções
+
+
+#### VS 1.0.1
+
+* Adicionado: xl e lg
+
+
 ## Formula
 
 100 / 12 = 8,333333333333333 * 12 = 100%
@@ -24,17 +34,5 @@
 
 * WordPress
 * Tema OceanWP
-
-### Desktop
-
-* rtk-col-md-
-
-### Tablet
-
-* rtk-col-sm
-
-### Mobile
-
-* rtk-col-xs
 
 
