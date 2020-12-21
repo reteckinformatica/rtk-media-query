@@ -30,73 +30,73 @@
 */
 
 @media (min-width: 1281px) {
-    .rtk-col-md-1{
+    .rtk-col-lg-1{
         position: relative;
         padding: 5px;
         width: 8.33333%;
         float: left;        
     }
-    .rtk-col-md-2{
+    .rtk-col-lg-2{
         position: relative;
         padding: 5px;       
         width: 16.6666%;
         float: left;
     }
-    .rtk-col-md-3{
+    .rtk-col-lg-3{
         position: relative;
         padding: 5px;      
         width: 25%;
         float: left;
     }
-    .rtk-col-md-4{
+    .rtk-col-lg-4{
         position: relative;   
         padding: 5px;        
         width: 33.3333%;
         float: left;
     }
-    .rtk-col-md-5{
+    .rtk-col-lg-5{
         position: relative;
         padding: 5px;      
         width: 41.6666%;
         float: left;
     }
-    .rtk-col-md-6{
+    .rtk-col-lg-6{
         position: relative;
         padding: 5px;     
         width: 50%;
         float: left;
     }
-    .rtk-col-md-7{
+    .rtk-col-lg-7{
         position: relative;
         padding: 5px;       
         width: 58.3333%;
         float: left;
     }
-    .rtk-col-md-8{
+    .rtk-col-lg-8{
         position: relative;     
         padding: 5px;        
         width: 66.6666%;
         float: left;
     }
-    .rtk-col-md-9{
+    .rtk-col-lg-9{
         position: relative;
         padding: 5px;       
         width: 75%;
         float: left;
     }
-    .rtk-col-md-10{
+    .rtk-col-lg-10{
         position: relative;
         padding: 5px;       
         width: 83.3333%;
         float: left;
     }
-    .rtk-col-md-11{
+    .rtk-col-lg-11{
         position: relative;
         padding: 5px;     
         width: 91.6666%;
         float: left;
     }
-    .rtk-col-md-12{
+    .rtk-col-lg-12{
         position: relative;     
         padding: 5px;        
         width: 100%;        
