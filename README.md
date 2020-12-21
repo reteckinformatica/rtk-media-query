@@ -8,6 +8,7 @@
 #### VS 1.0.1
 
 * Adicionado: xl e lg
+* Corrigido: estilo das colunas
 
 
 ## Formula
