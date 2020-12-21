@@ -431,73 +431,73 @@
 */
 
 @media (min-width: 320px) and (max-width: 480px) {
-    .rtk-col-xs-1{
+    .rtk-col-1{
         position: relative;
         padding: 5px;    
         width: 8.33333%;
         float: left;
     }
-    .rtk-col-xs-2{
+    .rtk-col-2{
         position: relative;
         padding: 5px;     
         width: 16.6666%;
         float: left;
     }
-    .rtk-col-xs-3{
+    .rtk-col-3{
         position: relative;
         padding: 5px;       
         width: 25%;
         float: left;
     }
-    .rtk-col-xs-4{
+    .rtk-col-4{
         position: relative;
         padding: 5px;      
         width: 33.3333%;
         float: left;
     }
-    .rtk-col-xs-5{
+    .rtk-col-5{
         position: relative;
         padding: 5px;     
         width: 41.6666%;
         float: left;
     }
-    .rtk-col-xs-6{
+    .rtk-col-6{
         position: relative;
         padding: 5px;      
         width: 50%;
         float: left;
     }
-    .rtk-col-xs-7{
+    .rtk-col-7{
         position: relative;
         padding: 5px;      
         width: 58.3333%;
         float: left;
     }
-    .rtk-col-xs-8{
+    .rtk-col-8{
         position: relative;
         padding: 5px;      
         width: 66.6666%;
         float: left;
     }
-    .rtk-col-xs-9{
+    .rtk-col-9{
         position: relative;
         padding: 5px;      
         width: 75%;
         float: left;
     }
-    .rtk-col-xs-10{
+    .rtk-col-10{
         position: relative;
         padding: 5px;     
         width: 83.3333%;
         float: left;
     }
-    .rtk-col-xs-11{
+    .rtk-col-11{
         position: relative;
         padding: 5px;    
         width: 91.6666%;
         float: left;
     }
-    .rtk-col-xs-12{
+    .rtk-col-12{
         position: relative;
         padding: 5px;       
         width: 100%;
